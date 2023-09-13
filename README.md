@@ -1,2 +1,4 @@
-# jsminiproject
-This is a Java Srcipt mini project.
+# ToDo App
+This is a ToDo app.
+
+
